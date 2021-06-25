@@ -1,4 +1,4 @@
-# [Tribute Page to Alan Turing](https://www.ghttps://leephan2k1.github.io/Tribute-page/oogle.com)
+# [Tribute Page to Alan Turing](https://leephan2k1.github.io/Tribute-page/)
 #### Technologies used:
 * HTML5
 * CSS 
